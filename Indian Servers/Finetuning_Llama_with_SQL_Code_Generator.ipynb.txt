@@ -1,31 +1,4 @@
-{
-  "cells": [
-    {
-      "cell_type": "code",
-      "source": [
-        "huggingface_auth_token = \"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\" #get yours from: https://huggingface.co/meta-llama/Llama-2-13b-chat-hf"
-      ],
-      "metadata": {
-        "id": "Z_72aROMj0Mb"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "72eGWc3xm8Le",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "outputId": "c67c3969-1de8-49c9-c96a-2a05fc277404"
-      },
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
+
             "  Installing build dependencies ... \u001b[?25l\u001b[?25hdone\n",
             "  Getting requirements to build wheel ... \u001b[?25l\u001b[?25hdone\n",
             "  Preparing metadata (pyproject.toml) ... \u001b[?25l\u001b[?25hdone\n",
