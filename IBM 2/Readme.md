@@ -1,4 +1,4 @@
-Traffic-Prediction-using-SVR
+TRAFFIC PREDICTION USING MACHINE LEARNING
 
 Our main aim was to predict the traffic using SVR model, then compare their error and accuracy rate.
 
