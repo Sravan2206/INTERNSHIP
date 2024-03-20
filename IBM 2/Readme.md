@@ -4,7 +4,7 @@ Our main aim was to predict the traffic using SVR model, then compare their erro
 
 We build our model in python using a real time dataset.
 
-ABOUT THE DATA SET
+About the data set
 
 Date:
 
